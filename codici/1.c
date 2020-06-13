@@ -11,6 +11,6 @@ int main()
         scanf ("%d", &input);
         somma = somma+input;
     }
-    printf("La somma è: %d", somma);
+    printf("La somma Ã¨: %d", somma);
     return 0;
 }
