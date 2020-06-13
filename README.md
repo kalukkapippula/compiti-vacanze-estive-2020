@@ -1,4 +1,4 @@
-# compiti-vacanze-estive-2020
+# compiti vacanze estive 2020
 
 Compiti di informatica in C.
 
