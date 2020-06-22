@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	printf("13_Prodotto somme successive\n");
+	printf("15_Prodotto somme successive\n");
 	unsigned num1=0;
 	unsigned num2=0;
 	unsigned prodotto=0;
